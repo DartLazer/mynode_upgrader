@@ -2,5 +2,7 @@
 A simple shell script that automatically upgrades the current device when run.
 
 Git clone to device (raspberry pi i.e.)
+
 run "chmod +x mynode_upgrader.sh" to set permission to execute the script
+
 run "sudo ./mynode_upgrader.sh" and follow the onscreen instructions.
